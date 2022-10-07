@@ -1,9 +1,9 @@
 # Sound-of-war
 An fps game I made with my team at the University of Westminster.
 It's a first person shooter inspired by cod zombies where you kill tons of enemies to progress through rounds and fight harder enemies that spawn in higher frequency. 
-You have a limited amount of ammo so make your shots count 
+You have a limited amount of ammo so make your shots count. 
 ![image](https://user-images.githubusercontent.com/115250689/194570376-8692bd65-8fb6-4810-af77-3d334fd2c806.png)
-I used models,sounds and textures from the Unity asset store to make this game and got help writing the code from online sources and the people around me
+I used models,sounds and textures from the Unity asset store to make this game and got help writing the code from online sources and the people around me.
 ![image](https://user-images.githubusercontent.com/115250689/194572448-cdadd33a-ccd6-4e38-897a-2e2bb137c401.png)
 If you find your weapons aren't doing enough damage or are running low on ammo then you can pick up new and exciting weapons from the ground that are dropped by the enemies you kill. 
 
